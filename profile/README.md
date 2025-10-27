@@ -2,10 +2,10 @@
 
 **MeDiTwin** is an EU-funded Horizon Europe project (Grant Agreement No. XXXX) aiming to develop an **AI-powered Mediterranean Digital Twin** to **monitor, model, and mitigate the impacts of climate extremes** — such as droughts, floods, heatwaves, and wildfires.
 
-🧭 Coordinated by: National Technical University of Athens (NTUA)
-🤝 Partners: Max Planck Institute for Biogeochemistry, University of Valencia (UV), European Centre for Medium-Range Weather Forecasts(ECMWF)
-⏰ Duration: 2024–2027  
-💶 Funded under: Horizon Europe Cluster 5 — Climate, Energy, and Mobility
+- 🧭 Coordinated by: National Technical University of Athens (NTUA)
+- 🤝 Partners: Max Planck Institute for Biogeochemistry, University of Valencia (UV), European Centre for Medium-Range Weather Forecasts(ECMWF)
+- ⏰ Duration: 2024–2027  
+- 💶 Funded under: Horizon Europe Cluster 5 — Climate, Energy, and Mobility
 
 ---
 
