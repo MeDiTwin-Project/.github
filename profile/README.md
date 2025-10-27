@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |-------------|-------------|
-| [meditwin-core](https://github.com/MeDiTwin/meditwin-core) | Core infrastructure for Digital Twin workflows |
-| [meditwin-research](https://github.com/MeDiTwin/meditwin-research) | AI/ML models for forecasting & attribution |
-| [meditwin-datacube](https://github.com/MeDiTwin/meditwin-data) | Mediterranean Zarr-based EO datacubes |
-| [meditwin-dashboard](https://github.com/MeDiTwin/meditwin-dashboard) | Interactive web dashboard for Digital Twin visualization |
-| [meditwin-docs](https://github.com/MeDiTwin/meditwin-docs) | Project documentation, deliverables, and tutorials |
+| [meditwin-core](https://github.com/MeDiTwin-project/meditwin-core) | Core infrastructure for Digital Twin workflows |
+| [meditwin-research](https://github.com/MeDiTwin-project/meditwin-research) | AI/ML models for forecasting & attribution |
+| [meditwin-datacube](https://github.com/MeDiTwin-project/meditwin-data) | Mediterranean Zarr-based EO datacubes |
+| [meditwin-dashboard](https://github.com/MeDiTwin-project/meditwin-dashboard) | Interactive web dashboard for Digital Twin visualization |
+| [meditwin-docs](https://github.com/MeDiTwin-project/meditwin-docs) | Project documentation, deliverables, and tutorials |
 
 ---
 
