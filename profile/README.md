@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Ongoing Repositories
+## Ongoing Repositories
 
 
 | Repository | Description |
@@ -30,7 +30,7 @@ We bring together Earth Observation, AI, and climate science to provide **action
 
 ---
 
-## 🌐 Learn More
+## Learn More
 
 [Website](https://meditwin-project.eu/)  
 [News](https://meditwin-project.eu/news)  
