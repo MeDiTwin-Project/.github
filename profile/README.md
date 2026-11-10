@@ -33,7 +33,7 @@ We bring together Earth Observation, AI, and climate science to provide **action
 ## 🌐 Learn More
 
 🔗 [Website](https://meditwin-project.eu/)  
-📜 [Press releases](https://meditwin-project.eu/news)  
+📜 [News](https://meditwin-project.eu/news)  
 💬 [Contact](mailto:info@meditwin-project.eu)
 
 ---
