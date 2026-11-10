@@ -3,28 +3,29 @@
 **MeDiTwin** is an EU-funded Horizon Europe project (Grant Agreement No. 101159723) aiming to develop an **AI-powered Mediterranean Digital Twin** to **monitor, model, and mitigate the impacts of climate extremes** — such as droughts, floods, heatwaves, and wildfires.
 
 - Coordinated by: National Technical University of Athens (NTUA)
-- Partners: Max Planck Institute for Biogeochemistry, University of Valencia (UV), European Centre for Medium-Range Weather Forecasts(ECMWF)
-- Duration: 2024–2027  
+- Partners: Max Planck Institute for Biogeochemistry, University of Valencia (UV), European Centre for Medium-Range Weather Forecasts (ECMWF)
+- Duration: 2024–2027
 - Funded under: Horizon Europe (HORIZON-CSA – Coordination and Support Actions)
 
 ---
 
-## Ongoing Repositories
+## Start Here
 
+Our material is organised into two collections. Each hub below lists all the
+repositories in its category, and new ones are added as the project progresses.
 
-| Repository | Description |
-|-------------|-------------|
-| [meditwin-core](https://github.com/MeDiTwin-Project/.github/tree/main/meditwin-core) | Core infrastructure for Digital Twin workflows |
-| [meditwin-research](https://github.com/MeDiTwin-Project/.github/tree/main/meditwin-research) | AI/ML models for forecasting & attribution |
-| [meditwin-datacube](https://github.com/MeDiTwin-Project/.github/tree/main/meditwin-data) | Mediterranean Zarr-based EO datacubes |
-| [meditwin-dashboard](https://github.com/MeDiTwin-Project/.github/tree/main/meditwin-dashboard) | Interactive web dashboard for Digital Twin visualization |
-| [meditwin-docs](https://github.com/MeDiTwin-Project/.github/tree/main/meditwin-docs) | Project documentation, deliverables, and tutorials |
+| Collection | What you'll find | Repos |
+|------------|------------------|-------|
+| 🎓 [**Trainings**](https://github.com/MeDiTwin-Project/00-trainings-overview) | Summer schools, courses and hands-on training material | `train01-…`, `train02-…`, … |
+| 🔬 [**Research**](https://github.com/MeDiTwin-Project/00-research-overview) | Research code, models and experiments | `res01-…`, `res02-…`, … |
+
+> Browse by prefix: [`train`](https://github.com/orgs/MeDiTwin-Project/repositories?q=train) · [`res`](https://github.com/orgs/MeDiTwin-Project/repositories?q=res)
 
 ---
 
 ## Vision
 
-> *“A smarter, more resilient Mediterranean through trustworthy AI and digital twins.”*
+> *"A smarter, more resilient Mediterranean through trustworthy AI and digital twins."*
 
 We bring together Earth Observation, AI, and climate science to provide **actionable intelligence** for environmental resilience, supporting **EU DestinE**, **Green Deal**, and **Digital Europe** initiatives.
 
@@ -32,6 +33,4 @@ We bring together Earth Observation, AI, and climate science to provide **action
 
 ## Learn More
 
-[Website](https://meditwin-project.eu/)  
-[News](https://meditwin-project.eu/news)  
-[Contact](mailto:info@meditwin-project.eu)
+[Website](https://meditwin-project.eu/) · [News](https://meditwin-project.eu/news) · [Contact](mailto:info@meditwin-project.eu)
