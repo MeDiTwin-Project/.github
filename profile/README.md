@@ -35,9 +35,3 @@ We bring together Earth Observation, AI, and climate science to provide **action
 [Website](https://meditwin-project.eu/)  
 [News](https://meditwin-project.eu/news)  
 [Contact](mailto:info@meditwin-project.eu)
-
----
-
-### Partners & Coordination
-
-![logos](https://meditwin-project.eu/wp-content/uploads/2024/03/partners-banner.png)
