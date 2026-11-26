@@ -17,9 +17,8 @@ repositories in its category, and new ones are added as the project progresses.
 | Collection | What you'll find | Repos |
 |------------|------------------|-------|
 | 🎓 [**Trainings**](https://github.com/MeDiTwin-Project/00-trainings-overview) | Summer schools, courses and hands-on training material | `train01-…`, `train02-…`, … |
-| 🔬 [**Research**](https://github.com/MeDiTwin-Project/00-research-overview) | Research code, models and experiments | `res01-…`, `res02-…`, … |
 
-> Browse by prefix: [`train`](https://github.com/orgs/MeDiTwin-Project/repositories?q=train) · [`res`](https://github.com/orgs/MeDiTwin-Project/repositories?q=res)
+> Browse by prefix: [`train`](https://github.com/orgs/MeDiTwin-Project/repositories?q=train)
 
 ---
 
@@ -34,3 +33,7 @@ We bring together Earth Observation, AI, and climate science to provide **action
 ## Learn More
 
 [Website](https://meditwin-project.eu/) · [News](https://meditwin-project.eu/news) · [Contact](mailto:info@meditwin-project.eu)
+
+## Acknowledgements
+The MeDiTwin Project has received funding from the European Union's Horizon Europe WIDERA
+Coordination and Support Actions under Grant Agreement no. 101159723.
