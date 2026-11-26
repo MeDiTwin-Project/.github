@@ -18,10 +18,10 @@ organizations.
 | Training | Date | Type | Links |
 |----------|------|------|-------|
 | Cloud Computing, Autumn Training | Nov 2–6, 2026 | Repo | [train02-autumn-training-2026-cloud-computing](https://github.com/MeDiTwin-Project/train02-autumn-training-2026-cloud-computing) · [course site](https://training.pages.data.meditwin-project.eu/meditwin-autumn-training-2026/) |
-| ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes | Mar 16–20, 2026 | Link | [event page](https://meditwin-project.eu/ai4eo-winter-school/) · [GitHub org](https://github.com/WinterSchool2026) |
-| Intelligent Earth: AI, Explainability, and Modeling for Environmental Research | Oct 21–24, 2025 | Link | [train03-intelligent-earth](https://github.com/MeDiTwin-Project/train03-intelligent-earth) · [event page](https://meditwin-project.eu/2025/07/17/intelligent-earth-training/) |
+| ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes | Mar 16–20, 2026 | Collection of repos | [event page](https://meditwin-project.eu/ai4eo-winter-school/) · [GitHub org](https://github.com/WinterSchool2026) |
+| Intelligent Earth: AI, Explainability, and Modeling for Environmental Research | Oct 21–24, 2025 | Collection of repos | [train03-intelligent-earth](https://github.com/MeDiTwin-Project/train03-intelligent-earth) · [event page](https://meditwin-project.eu/2025/07/17/intelligent-earth-training/) |
 | EO Data Processing in Cloud Environments (Summer School) | Jul 7–11, 2025 | Repo | [train01-summer-school-2025-eo-cloud](https://github.com/MeDiTwin-Project/train01-summer-school-2025-eo-cloud) · [course site](https://training.pages.data.meditwin-project.eu/meditwin-summer-school-2025/) |
-| Sc·AI·ence Café Series (invited and community talks) | Ongoing | Link | [series page](https://meditwin-project.eu/invited-talk-series/) |
+| Sc·AI·ence Café Series (invited and community talks) | Ongoing | Schedule Link | [series page](https://meditwin-project.eu/invited-talk-series/) |
 
 
 ---
