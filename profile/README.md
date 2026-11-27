@@ -9,6 +9,23 @@
 
 ---
 
+## Research
+
+Several of these works have been presented as workshop posters and are being extended into journal articles. 
+Code and full papers will be released upon journal publication.
+
+| Project | Code | Paper | Venue |
+|---------|------|-------|-------|
+| Causal analysis of wildfire drivers using SeasFire | _upon publication_ | _upon publication_ | [NeurIPS 2026 Workshop](https://e-values-workshop.github.io/) | 
+| Invariant learning for crop-yield prediction | _upon publication_ | _upon publication_ | [EurIPS 2025 Workshop](https://impact-25.causal.dev/) |
+| Predicting drought impacts and understanding drivers across sectors | _upon publication_ | _upon publication_ | tbd |
+| Causal understanding of wildfire drivers in the Mediterranean | _upon publication_ | _upon publication_ | tbd |
+| Next-day active-fire forecasting with WISP | _upon publication_ | _upon publication_ | tbd |
+| Downscaling seasonal wildfire extremes forecasts | _upon publication_ | _upon publication_ | [NeurIPS 2026 Workshop](https://trustworthy-ai-for-good.github.io/)|
+| Predicting CO₂ emissions due to wildfires | _upon publication_ | _upon publication_ | tbd |
+
+---
+
 ## MeDiTwin Trainings
 
 Training material, events and series from the MeDiTwin project. Repositories
