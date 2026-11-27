@@ -21,7 +21,7 @@ Code and full papers will be released upon journal publication.
 | Predicting drought impacts and understanding drivers across sectors | _upon publication_ | _upon publication_ | tbd |
 | Causal understanding of wildfire drivers in the Mediterranean | _upon publication_ | _upon publication_ | tbd |
 | Next-day active-fire forecasting with WISP | _upon publication_ | _upon publication_ | tbd |
-| Downscaling seasonal wildfire extremes forecasts | _upon publication_ | _upon publication_ | [NeurIPS 2026 Workshop](https://trustworthy-ai-for-good.github.io/)|
+| Adapting Global Wildfire Danger Models to High-Stakes Regional Fire Regimes | tbd | _upon publication_ | [NeurIPS 2026 Workshop](https://trustworthy-ai-for-good.github.io/)|
 | Predicting CO₂ emissions due to wildfires | _upon publication_ | _upon publication_ | tbd |
 
 ---
